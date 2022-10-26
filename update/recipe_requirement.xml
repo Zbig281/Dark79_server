@@ -30294,12 +30294,8 @@
 		<Influence>10</Influence>
 		<Quantity>2</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
-	</row>
-	
-	
-	
-	
-		<row>
+	</row>	
+	<row>
 		<ID>4300</ID>
 		<RecipeID>241</RecipeID>
 		<MaterialObjectTypeID>471</MaterialObjectTypeID>
@@ -30308,7 +30304,7 @@
 		<Quantity>10</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4301</ID>
 		<RecipeID>292</RecipeID>
 		<MaterialObjectTypeID>343</MaterialObjectTypeID>
@@ -30317,7 +30313,7 @@
 		<Quantity>1</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4302</ID>
 		<RecipeID>295</RecipeID>
 		<MaterialObjectTypeID>343</MaterialObjectTypeID>
@@ -30326,7 +30322,7 @@
 		<Quantity>1</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4303</ID>
 		<RecipeID>47</RecipeID>
 		<MaterialObjectTypeID>1356</MaterialObjectTypeID>
@@ -30335,7 +30331,7 @@
 		<Quantity>10</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4304</ID>
 		<RecipeID>598</RecipeID>
 		<MaterialObjectTypeID>665</MaterialObjectTypeID>
@@ -30344,7 +30340,7 @@
 		<Quantity>1000</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4305</ID>
 		<RecipeID>62</RecipeID>
 		<MaterialObjectTypeID>241</MaterialObjectTypeID>
@@ -30353,7 +30349,7 @@
 		<Quantity>60000</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4306</ID>
 		<RecipeID>62</RecipeID>
 		<MaterialObjectTypeID>665</MaterialObjectTypeID>
@@ -30362,7 +30358,7 @@
 		<Quantity>60000</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4307</ID>
 		<RecipeID>61</RecipeID>
 		<MaterialObjectTypeID>665</MaterialObjectTypeID>
@@ -30371,7 +30367,7 @@
 		<Quantity>30000</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4308</ID>
 		<RecipeID>600</RecipeID>
 		<MaterialObjectTypeID>665</MaterialObjectTypeID>
@@ -30380,7 +30376,7 @@
 		<Quantity>2000</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4309</ID>
 		<RecipeID>913</RecipeID>
 		<MaterialObjectTypeID>290</MaterialObjectTypeID>
@@ -30389,7 +30385,7 @@
 		<Quantity>15</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-		<row>
+	<row>
 		<ID>4310</ID>
 		<RecipeID>1100</RecipeID>
 		<MaterialObjectTypeID>415</MaterialObjectTypeID>
@@ -30398,5 +30394,476 @@
 		<Quantity>10</Quantity>
 		<IsRegionItemRequired>0</IsRegionItemRequired>
 	</row>
-	
+
+
+
+
+	<row>
+		<ID>4311</ID>
+		<RecipeID>1087</RecipeID>
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>65</Influence>
+		<Quantity>2</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4312</ID>
+		<RecipeID>1087</RecipeID>
+		<MaterialObjectTypeID>34</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4313</ID>
+		<RecipeID>1087</RecipeID>
+		<MaterialObjectTypeID>247</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>0</Influence>
+		<Quantity>1</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4314</ID>
+		<RecipeID>1088</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>18</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4315</ID>
+		<RecipeID>1088</RecipeID> 
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4316</ID>
+		<RecipeID>1088</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>15</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4317</ID>
+		<RecipeID>1088</RecipeID>
+		<MaterialObjectTypeID>262</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>8</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4318</ID>
+		<RecipeID>1088</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4319</ID>
+		<RecipeID>1089</RecipeID> 
+		<MaterialObjectTypeID>269</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>100</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4320</ID>
+		<RecipeID>1089</RecipeID>
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>8</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4321</ID>
+		<RecipeID>1089</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>15</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4322</ID>
+		<RecipeID>1089</RecipeID>
+		<MaterialObjectTypeID>528</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4323</ID>
+		<RecipeID>1090</RecipeID>
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4324</ID>
+		<RecipeID>1090</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4325</ID>
+		<RecipeID>1090</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4326</ID>
+		<RecipeID>1090</RecipeID>
+		<MaterialObjectTypeID>1356</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>10</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4327</ID>
+		<RecipeID>1091</RecipeID>
+		<MaterialObjectTypeID>282</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4328</ID>
+		<RecipeID>1091</RecipeID>
+		<MaterialObjectTypeID>283</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>2</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4329</ID>
+		<RecipeID>1092</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>18</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4330</ID>
+		<RecipeID>1092</RecipeID> 
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>8</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4331</ID>
+		<RecipeID>1092</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>25</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4332</ID>
+		<RecipeID>1092</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4333</ID>
+		<RecipeID>1093</RecipeID> 
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>3</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4334</ID>
+		<RecipeID>1093</RecipeID>
+		<MaterialObjectTypeID>1356</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4335</ID>
+		<RecipeID>1094</RecipeID> 
+		<MaterialObjectTypeID>269</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>80</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4336</ID>
+		<RecipeID>1094</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>10</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4337</ID>
+		<RecipeID>1094</RecipeID>
+		<MaterialObjectTypeID>528</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>30</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4338</ID>
+		<RecipeID>1094</RecipeID>
+		<MaterialObjectTypeID>270</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4339</ID>
+		<RecipeID>1095</RecipeID>
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>200</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4340</ID>
+		<RecipeID>1095</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>400</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4341</ID>
+		<RecipeID>1095</RecipeID>
+		<MaterialObjectTypeID>286</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>1</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4342</ID>
+		<RecipeID>1095</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>5</Influence>
+		<Quantity>230</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4343</ID>2
+		<RecipeID>1096</RecipeID>
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>250</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4344</ID>
+		<RecipeID>1096</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>400</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4345</ID>
+		<RecipeID>1096</RecipeID>
+		<MaterialObjectTypeID>286</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>2</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4346</ID>
+		<RecipeID>1096</RecipeID>
+		<MaterialObjectTypeID>288</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>5</Influence>
+		<Quantity>6</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4347</ID>
+		<RecipeID>1096</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>5</Influence>
+		<Quantity>280</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4348</ID>
+		<RecipeID>1097</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>36</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4349</ID>
+		<RecipeID>1097</RecipeID> 
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>16</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4350</ID>
+		<RecipeID>1097</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>50</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4351</ID>
+		<RecipeID>1097</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>80</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4352</ID>
+		<RecipeID>1098</RecipeID>
+		<MaterialObjectTypeID>326</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>36</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4353</ID>
+		<RecipeID>1098</RecipeID> 
+		<MaterialObjectTypeID>233</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>16</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4354</ID>
+		<RecipeID>1098</RecipeID>
+		<MaterialObjectTypeID>32</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>50</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4355</ID>
+		<RecipeID>1098</RecipeID>
+		<MaterialObjectTypeID>281</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>80</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4356</ID>
+		<RecipeID>1099</RecipeID> 
+		<MaterialObjectTypeID>269</MaterialObjectTypeID> 
+		<Quality>0</Quality>
+		<Influence>30</Influence>
+		<Quantity>50</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4357</ID>
+		<RecipeID>1099</RecipeID>
+		<MaterialObjectTypeID>528</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>20</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4358</ID>
+		<RecipeID>1100</RecipeID>
+		<MaterialObjectTypeID>235</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>20</Influence>
+		<Quantity>30</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4359</ID>
+		<RecipeID>1100</RecipeID>
+		<MaterialObjectTypeID>255</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>4</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4360</ID>
+		<RecipeID>1100</RecipeID>
+		<MaterialObjectTypeID>1131</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>20</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4361</ID>
+		<RecipeID>1100</RecipeID>
+		<MaterialObjectTypeID>36</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>40</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
+	<row>
+		<ID>4362</ID>
+		<RecipeID>1100</RecipeID>
+		<MaterialObjectTypeID>262</MaterialObjectTypeID>
+		<Quality>0</Quality>
+		<Influence>10</Influence>
+		<Quantity>10</Quantity>
+		<IsRegionItemRequired>0</IsRegionItemRequired>
+	</row>
 </table>

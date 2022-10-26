@@ -1874,7 +1874,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>100000</MaxContSize>
+		<MaxContSize>70000</MaxContSize>
 		<Length>5</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>1000</UnitWeight>
@@ -1893,7 +1893,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>200000</MaxContSize>
+		<MaxContSize>50000</MaxContSize>
 		<Length>5</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>1000</UnitWeight>
@@ -1912,7 +1912,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>350000</MaxContSize>
+		<MaxContSize>250000</MaxContSize>
 		<Length>4</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -1931,7 +1931,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>800000</MaxContSize>
+		<MaxContSize>500000</MaxContSize>
 		<Length>5</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -1950,7 +1950,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>300000</MaxContSize>
+		<MaxContSize>150000</MaxContSize>
 		<Length>3</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -1988,7 +1988,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>450000</MaxContSize>
+		<MaxContSize>300000</MaxContSize>
 		<Length>3</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -2007,7 +2007,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>200000</MaxContSize>
+		<MaxContSize>100000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>20000</UnitWeight>
@@ -2159,7 +2159,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>400000</MaxContSize>
+		<MaxContSize>200000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>20000</UnitWeight>
@@ -2425,7 +2425,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>1</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>30000000</MaxContSize>
+		<MaxContSize>15000000</MaxContSize>
 		<Length>8</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>200000</UnitWeight>
@@ -2444,7 +2444,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>1</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>110000000</MaxContSize>
+		<MaxContSize>50000000</MaxContSize>
 		<Length>10</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>400000</UnitWeight>
@@ -2520,7 +2520,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>4000000</MaxContSize>
+		<MaxContSize>100000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>200000</UnitWeight>
@@ -2539,7 +2539,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>200000</MaxContSize>
+		<MaxContSize>80000</MaxContSize>
 		<Length>8</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>400000</UnitWeight>
@@ -2558,7 +2558,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>800000</MaxContSize>
+		<MaxContSize>400000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>50000</UnitWeight>
@@ -2653,7 +2653,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>800000</MaxContSize>
+		<MaxContSize>790000</MaxContSize>
 		<Length>8</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>200000</UnitWeight>
@@ -2672,7 +2672,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>70000</MaxContSize>
+		<MaxContSize>65000</MaxContSize>
 		<Length>7</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>20000</UnitWeight>
@@ -3090,7 +3090,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>500000</MaxContSize>
+		<MaxContSize>300000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -3109,7 +3109,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>750000</MaxContSize>
+		<MaxContSize>500000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>10000</UnitWeight>
@@ -3128,7 +3128,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>1600000</MaxContSize>
+		<MaxContSize>1200000</MaxContSize>
 		<Length>7</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>10000</UnitWeight>
@@ -8391,7 +8391,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>1</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>30000000</MaxContSize>
+		<MaxContSize>15000000</MaxContSize>
 		<Length>8</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>200000</UnitWeight>
@@ -9494,9 +9494,9 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>5</Length>
+		<Length>4</Length>
 		<MaxStackSize>1</MaxStackSize>
-		<UnitWeight>7000</UnitWeight>
+		<UnitWeight>4500</UnitWeight>
 		<BackgndImage></BackgndImage>
 		<FaceImage>art\2D\Items\zweihaender.png</FaceImage>
 		<Description></Description>
@@ -9627,9 +9627,9 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>5</Length>
+		<Length>4</Length>
 		<MaxStackSize>1</MaxStackSize>
-		<UnitWeight>8000</UnitWeight>
+		<UnitWeight>6000</UnitWeight>
 		<BackgndImage></BackgndImage>
 		<FaceImage>art\2D\Items\Maul.png</FaceImage>
 		<Description>Mallet's Big Brother</Description>
@@ -9855,7 +9855,7 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>6</Length>
+		<Length>5</Length>
 		<MaxStackSize>1</MaxStackSize>
 		<UnitWeight>2000</UnitWeight>
 		<BackgndImage></BackgndImage>
@@ -9874,7 +9874,7 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>7</Length>
+		<Length>5</Length>
 		<MaxStackSize>1</MaxStackSize>
 		<UnitWeight>3000</UnitWeight>
 		<BackgndImage></BackgndImage>
@@ -9893,7 +9893,7 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>8</Length>
+		<Length>5</Length>
 		<MaxStackSize>1</MaxStackSize>
 		<UnitWeight>3500</UnitWeight>
 		<BackgndImage></BackgndImage>
@@ -10444,7 +10444,7 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>2</Length>
+		<Length>1</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5</UnitWeight>
 		<BackgndImage></BackgndImage>
@@ -10957,7 +10957,7 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>2</Length>
+		<Length>1</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5</UnitWeight>
 		<BackgndImage></BackgndImage>
@@ -18871,7 +18871,7 @@
 	<row>
 		<ID>1072</ID>
 		<ParentID>130</ParentID>
-		<Name>Palisade Wall (diagonal)</Name>
+		<Name>0de Wall (diagonal)</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>0</IsMovableObject>
 		<IsUnmovableobject>1</IsUnmovableobject>
@@ -19252,14 +19252,14 @@
 		<ID>1092</ID>
 		<ParentID>130</ParentID>
 		<Name>Small Keep</Name>
-		<IsContainer>1</IsContainer>
+		<IsContainer>0</IsContainer>
 		<IsMovableObject>0</IsMovableObject>
 		<IsUnmovableobject>1</IsUnmovableobject>
 		<IsTool>0</IsTool>
 		<IsDevice>0</IsDevice>
 		<IsDoor>1</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>10000000</MaxContSize>
+		<MaxContSize>0</MaxContSize>
 		<Length>0</Length>
 		<MaxStackSize>40</MaxStackSize>
 		<UnitWeight>1800000</UnitWeight>
@@ -19601,7 +19601,7 @@
 		<IsDevice>1</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>200000</MaxContSize>
+		<MaxContSize>100000</MaxContSize>
 		<Length>6</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>50000</UnitWeight>
@@ -20399,7 +20399,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>100000</MaxContSize>
+		<MaxContSize>50000</MaxContSize>
 		<Length>3</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>1000</UnitWeight>
@@ -25510,7 +25510,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>6000000</MaxContSize>
+		<MaxContSize>3000000</MaxContSize>
 		<Length>7</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>10000</UnitWeight>
@@ -25662,7 +25662,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>1000000</MaxContSize>
+		<MaxContSize>500000</MaxContSize>
 		<Length>4</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -25681,7 +25681,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>2000000</MaxContSize>
+		<MaxContSize>1000000</MaxContSize>
 		<Length>5</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
@@ -25966,7 +25966,7 @@
 		<IsDevice>0</IsDevice>
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
-		<MaxContSize>6000000</MaxContSize>
+		<MaxContSize>3000000</MaxContSize>
 		<Length>7</Length>
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>10000</UnitWeight>
@@ -36176,5 +36176,689 @@
 		<BackgndImage></BackgndImage>
 		<FaceImage>art\2D\Items\gold_and_silver_amulet.png</FaceImage>
 		<Description>Elder's gift for helping the villagers.</Description>
+	</row>
+	<row>
+		<ID>2400</ID>
+		<ParentID>1722</ParentID>
+		<Name>Wooden Cross</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>\mods\JorvikMod\art\2D\objects\wooden_cross.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2401</ID>
+		<ParentID>61</ParentID>
+		<Name>Wooden Bridge</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\wooden_bridge.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2402</ID>
+		<ParentID>61</ParentID>
+		<Name>Stone Bridge</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>10000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\stone_bridge.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2403</ID>
+		<ParentID>69</ParentID>
+		<Name>Small Wooden Shed</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>5000000</MaxContSize>
+		<Length>8</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>10000</UnitWeight>
+		<BackgndImage>art\\images\\warehouse</BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\small_wooden_shed.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2404</ID>
+		<ParentID>72</ParentID>
+		<Name>Metal Cage</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>1</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>3</MaxStackSize>
+		<UnitWeight>10000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\metal_cage.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2405</ID>
+		<ParentID>61</ParentID>
+		<Name>Wooden Pier</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\wooden_pier.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2406</ID>
+		<ParentID>130</ParentID>
+		<Name>Wooden Barricade</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>2000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\wooden_barricade.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2408</ID>
+		<ParentID>61</ParentID>
+		<Name>Stone Altar</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\stone_altar.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2409</ID>
+		<ParentID>72</ParentID>
+		<Name>Wooden House with Tower</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>1</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>6</MaxStackSize>
+		<UnitWeight>10000000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\wooden_house_with_tower.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2410</ID>
+		<ParentID>72</ParentID>
+		<Name>Wooden Church</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>1</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>20000000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\wooden_church.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2411</ID>
+		<ParentID>61</ParentID>
+		<Name>Wooden Pier T</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\pier_T.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2412</ID>
+		<ParentID>61</ParentID>
+		<Name>Wooden Pier L</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\pier_L.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>2413</ID>
+		<ParentID>61</ParentID>
+		<Name>Stone tomb with cross</Name> 
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>3000</UnitWeight>
+		<BackgndImage> </BackgndImage>
+		<FaceImage>mods\JorvikMod\art\2D\objects\stone_tomb_with_cross.png</FaceImage>
+		<Description>Object from Jorvik MOD pack</Description>
+	</row>
+	<row>
+		<ID>3000</ID>
+		<ParentID>751</ParentID>
+		<Name>Tribe Bear</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3001</ID>
+		<ParentID>59</ParentID>
+		<Name>Tribe Bear Carcass</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>100000</MaxContSize>
+		<Length>5</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3002</ID>
+		<ParentID>751</ParentID>
+		<Name>Tribe Chieftain</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3003</ID>
+		<ParentID>59</ParentID>
+		<Name>Tribe Chieftain Carcass</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>100000</MaxContSize>
+		<Length>5</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3004</ID>
+		<ParentID>751</ParentID>
+		<Name>Tribe Hunter</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3005</ID>
+		<ParentID>59</ParentID>
+		<Name>Tribe Hunter Carcass</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>100000</MaxContSize>
+		<Length>5</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3006</ID>
+		<ParentID>751</ParentID>
+		<Name>Tribe Mole</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3007</ID>
+		<ParentID>59</ParentID>
+		<Name>Tribe Mole Carcass</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>100000</MaxContSize>
+		<Length>5</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3008</ID>
+		<ParentID>751</ParentID>
+		<Name>Tribe Witch</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3009</ID>
+		<ParentID>59</ParentID>
+		<Name>Tribe Witch Carcass</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>100000</MaxContSize>
+		<Length>5</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>1</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3010</ID>
+		<ParentID>191</ParentID>
+		<Name>Bear Axe</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\bearaxe.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3011</ID>
+		<ParentID>57</ParentID>
+		<Name>Chieftain Sword</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>4500</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\chieftainsword.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3012</ID>
+		<ParentID>190</ParentID>
+		<Name>Hunter Axe</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1300</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\hunteraxe.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3013</ID>
+		<ParentID>196</ParentID>
+		<Name>Hunter Bow</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>3</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>3000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\hunterbow.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3014</ID>
+		<ParentID>10</ParentID>
+		<Name>Mole Pickaxe</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>1</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>0</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\molepickaxe.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3015</ID>
+		<ParentID>1031</ParentID>
+		<Name>Witch Sickle</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>1</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>2</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1000</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\Items\witchsickle.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3016</ID>
+		<ParentID>77</ParentID>
+		<Name>Wood Cart</Name>
+		<IsContainer>1</IsContainer>
+		<IsMovableObject>1</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>3000000</MaxContSize>
+		<Length>7</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>10000</UnitWeight>
+		<BackgndImage>art\images\universal</BackgndImage>
+		<FaceImage>art\2D\Objects\trader_cart.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3017</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Niebieski</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_A.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3018</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Czerwony</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_A_SkinA.png</FaceImage>
+		<Description></Description>
+	</row>		
+	<row>
+		<ID>3019</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Bandytów</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_A_SkinB.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3020</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Wyspy</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_B.png</FaceImage>
+		<Description></Description>
+	</row>	
+	<row>
+		<ID>3021</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Żółty</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_B_SkinA.png</FaceImage>
+		<Description></Description>
+	</row>
+	<row>
+		<ID>3022</ID>
+		<ParentID>225</ParentID>
+		<Name>Król Areny</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>4</Length>
+		<MaxStackSize>1</MaxStackSize>
+		<UnitWeight>1200</UnitWeight>
+		<BackgndImage></BackgndImage>
+		<FaceImage>art\2D\equipIcons\King\Male_King_B_SkinB.png</FaceImage>
+		<Description></Description>
 	</row>
 </table>
